@@ -8,8 +8,8 @@
 }
 
 html,body{
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 1;
   height: 100%;
   background-color: rgb(236, 238, 240);
   display: flex;
